@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Compass</string>
+    <string name="location_error_msg">Unable to retrieve location. Location required for magnetic declination</string>
+    <string name="not_available">N/A</string>
+    <string name="magnetic_declination">Magnetic Declination\n%.1f°</string>
+    <string name="true_heading">True Heading\n%d°</string>
+    <string name="heading">\n%d°</string>
+</resources>
